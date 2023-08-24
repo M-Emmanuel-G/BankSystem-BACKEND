@@ -6,6 +6,12 @@
   
 ## Funcionalidades
 
+  * Cadastro de novos clientes
+  * Login de clientes
+  * Realizar transferencias
+  * Realizar depositos
+  * Realizar Pagamentos 
+
 ## Tecnologias e conceitos
 
    * NodeJs
